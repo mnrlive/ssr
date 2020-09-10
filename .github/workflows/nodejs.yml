@@ -1,4 +1,4 @@
-name: Build and 757Deploy
+name: Build and Deploy
 on:
   push:
     branches:
